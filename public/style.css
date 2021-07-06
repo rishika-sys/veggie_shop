@@ -1,0 +1,27 @@
+body
+{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShjvZ7UNtG37RcYSWIwyNN5UxmzvoQ6Dr-Lg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align:center;
+  color:white;
+
+}
+h1{
+  font-size: 100px;
+
+  font-family: sans-serif;
+}
+h3{
+  font-size:50px;
+}
+label{
+  font-size: 20px;
+}
+button{
+
+}
+/*
+h1{
+  color:
+} */
